@@ -7,4 +7,3 @@ This purpose of this project is to show how to use Maven and Jenkins together.
 
 
 Change to see if it causes Jenkins to build.
-Test web hook setting
